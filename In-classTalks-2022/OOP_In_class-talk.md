@@ -16,6 +16,8 @@ What is Functional Programming?
 
 ## Programming Paradigm
 
+![Changing Programming Paradigm](https://user-images.githubusercontent.com/66354904/170830032-cd747044-c57a-4462-9b20-b671135373b8.png)
+
 - Programming Paradigm
     - Imperative Programming (# "How" to solve)
         - Procedural Programming
@@ -24,8 +26,8 @@ What is Functional Programming?
         - Functional Programming
 
 
-> "Functional Programming is programming without assignment statements"
-> Rober C.Martin, the author of the book "Clean Code"
+> "Functional Programming is programming without assignment statements"   
+> - Rober C.Martin, the author of the book "Clean Code"
 
 ****************************************************************
 
@@ -33,13 +35,15 @@ What is Functional Programming?
 
 ## 01. Lambda Calculus (λ-calculus)
 
+![Alonzo Church](https://user-images.githubusercontent.com/66354904/170830145-6f6b0b65-25cd-4fa0-afea-8ccf6747f718.png)
+
+Developed by **Alonzo Church** (1903 – 1995), a renowned American mathematician, logician, philosopher, professor and editor
+
 - Anything that can be computed by lambda calculus is computable
 - Equivalent to **Turing machine** in its ability to compute
 - Forms the basis of almost all current functional programming languages
 
 > Fun fact : Alan Turing, who created Turing machine which laid the foundation of imperative programming style, was a student of Alonzo Church
-
-Developed by **Alonzo Church** (1903 – 1995), a renowned American mathematician, logician, philosopher, professor and editor
 
 ## 02. Functional Programming Languages
 
@@ -179,7 +183,7 @@ int ro(int x) {
     • the depth of the function hierarchy, 29% more for SML
     • L/N\*, a measure of reuse, 377% more for SML.
 
->>Samaraweera, L.G., Harrison, R., 1998. Evaluation of the functional and object-oriented programming paradigms. ACM SIGSOFT Software Engineering Notes 23, 38–43.. doi:10.1145/286366.286374.
+>Samaraweera, L.G., Harrison, R., 1998. Evaluation of the functional and object-oriented programming paradigms. ACM SIGSOFT Software Engineering Notes 23, 38–43.. doi:10.1145/286366.286374.
 
 *********************************
 
