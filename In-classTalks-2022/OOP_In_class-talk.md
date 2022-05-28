@@ -15,7 +15,7 @@ What is Functional Programming?
 
 ****************************************************************
 
-# 01. Introduction
+# 01. Introduction<a id="01.-Introduction"></a>
 
 ## Programming Paradigm
 
@@ -34,7 +34,7 @@ What is Functional Programming?
 
 ****************************************************************
 
-# 02. Background
+# 02. Background<a id="#02.-Background"></a>
 
 ## 01. Lambda Calculus (λ-calculus)
 
@@ -48,7 +48,7 @@ Developed by **Alonzo Church** (1903 – 1995), a renowned American mathematicia
 
 > Fun fact : Alan Turing, who created Turing machine which laid the foundation of imperative programming style, was a student of Alonzo Church
 
-## 02. Functional Programming Languages
+## 02. Functional Programming Languages<a id=""></a>
 
 The list of most popular functional programming languages and languages that support programming in functional style or have functional as well as OOP capabilities.
 
@@ -72,7 +72,7 @@ The list of most popular functional programming languages and languages that sup
 
 *********************************
 
-# 03. Concepts of Functional Programming
+# 03. Concepts of Functional Programming<a id="03.-Concepts-of-Functional-Programming"></a>
 
 ## 01. First-class Functions
 
@@ -154,7 +154,7 @@ int ro(int x) {
 
 ****************************************************************
 
-# 04. Pros & Cons
+# 04. Pros & Cons<a id="04.-Pros-&-Cons"></a>
 
 | | Pros | Cons |
 |:---:|:---:|:---:|
