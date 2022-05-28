@@ -5,13 +5,13 @@
 What is Functional Programming?
 ----------------------------------------------------------------
 
-[01. Introduction](#01.-Introduction)
+#### [01. Introduction](#01.-Introduction)
 
-[02. Background](#02.-Background)
+#### [02. Background](#02.-Background)
 
-[03. Concepts of Functional Programming](#03.-Concepts-of-Functional-Programming)
+#### [03. Concepts of Functional Programming](#03.-Concepts-of-Functional-Programming)
 
-[04. Pros & Cons](#04.-Pros-&-Cons)
+#### [04. Pros & Cons](#04.-Pros-&-Cons)
 
 ****************************************************************
 
